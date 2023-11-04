@@ -1,2 +1,5 @@
 node_modules
 .env
+leo
+aleo-caravela/helloworld_caravela/.env
+.DS_Store
