@@ -1,0 +1,22 @@
+{
+  "name": "caravela-protocol-eth-lisbon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhernz/caravela-protocol.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dhernz/caravela-protocol/issues"
+  },
+  "homepage": "https://github.com/dhernz/caravela-protocol#readme",
+  "dependencies": {
+    "@talentlayer/client": "^0.1.7"
+  }
+}
