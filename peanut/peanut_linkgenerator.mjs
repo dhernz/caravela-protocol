@@ -3,7 +3,7 @@ import { ethers } from 'ethers';
 
 const CHAINID = 5; // goerli
 const RPC_URL = 'https://rpc.goerli.eth.gateway.fm';
-const mnemonic = 'wife margin impact rabbit wink gold vast shrimp city kit anxiety hundred';
+const mnemonic = 'announce room limb pattern dry unit scale effort smooth jazz weasel alcohol';
 let walletMnemonic = ethers.Wallet.fromMnemonic(mnemonic);
 const wallet = new ethers.Wallet(walletMnemonic.privateKey, new ethers.providers.JsonRpcProvider(RPC_URL));
 
