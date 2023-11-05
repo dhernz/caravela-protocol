@@ -7,7 +7,7 @@
 
 
 ## Problem:
-An [empty Ethereum block]([url](https://etherscan.io/block/18482360)) on Nov 2, 2023 underscores our underutilization of available blockspace, and a fragmented infrastructure is hindering dApp growth.
+An [empty Ethereum block](https://etherscan.io/block/18482360) on Nov 2, 2023 underscores our underutilization of available blockspace, and a fragmented infrastructure is hindering dApp growth.
 
 
 
