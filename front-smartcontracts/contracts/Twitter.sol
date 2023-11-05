@@ -8,7 +8,7 @@ contract Twitter {
         uint256 timestamp;
     }
 
-    Tweet[] public tweets;
+    Tweet[]  tweets;
 
     event TweetCreated(address author, string content, uint256 timestamp);
 
@@ -24,5 +24,9 @@ contract Twitter {
     function getTweet(uint _index) public view returns (Tweet memory) {
         require(_index < tweets.length, "Tweet does not exist.");
         return tweets[_index];
+    }
+
+    function getAllTweets() public view returns (Tweet[] memory _tweets) {
+        _tweets = tweets;
     }
 }
