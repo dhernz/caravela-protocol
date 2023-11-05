@@ -60,4 +60,5 @@ The B2B SaaS TAM (total addressable market) in 2023 is estimated to be $197 bill
 * [TalentLayer](https://mumbai.polygonscan.com/tx/0x7e50febf308c86e05b97aa502c59d63eb6b77e83fa276e909280afff8ffc79ee#eventlog )
 * [Polygon Mumbai](https://mumbai.polygonscan.com/address/0xb39ac9aa058fa5cd35d5bad321c291caf8122e3a )
 * [Aleo](https://explorer.hamp.app/transaction?id=at1lnwvx2leaypxpwjk2eq23sty4lt0pg8rgtkd20cha7ekma3ulv8qqz5dw0 )
+* [Polygon zkEVM](https://testnet-zkevm.polygonscan.com/address/0xd40887257E8EB0C79a78d0926178Bc407A9198b1 )
 
