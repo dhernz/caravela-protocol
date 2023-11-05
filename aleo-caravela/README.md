@@ -88,3 +88,14 @@ Cross-Origin-Embedder-Policy: require-corp
 We've included a `_headers` file that works with some web hosts (e.g. Netlify)
 but depending on your host / server setup you may need to configure the headers
 manually.
+
+
+## Challenges and roadblocks encountered
+
+1. Installing Leo has an additional $ at the cargo install --path .
+2. At the moment of deploying - worker.js has line 44 has "userPrivateKey1" hardcoded, 
+	it should say in documentation that we should change it to the private key or at least use
+	the PRIVATE_KEY environment variable.
+
+
+
