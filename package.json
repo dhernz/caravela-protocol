@@ -17,7 +17,16 @@
   },
   "homepage": "https://github.com/dhernz/caravela-protocol#readme",
   "dependencies": {
+    "@iexec/dataprotector": "^0.3.0",
     "@talentlayer/client": "^0.1.7",
-    "dotenv": "^16.3.1"
+    "@web3-react/core": "^8.2.3",
+    "@web3-react/walletconnect-connector": "^6.2.13",
+    "dotenv": "^16.3.1",
+    "ethers": "^6.8.1",
+    "web3": "^4.2.2"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+    "hardhat": "^2.19.0"
   }
 }
